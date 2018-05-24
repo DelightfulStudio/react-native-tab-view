@@ -20,6 +20,10 @@
 .*/Libraries/react-native/React.js
 .*/Libraries/react-native/ReactNative.js
 
+; Ignore everything under example/ (flow complains about not being able to find
+; `react-native-tab-view` module)
+.*/example/
+
 ; Ignore duplicate modules under example/
 .*/example/node_modules/fbjs
 .*/example/node_modules/fbemitter

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tab-view",
+  "name": "@delightfulstudio/react-native-tab-view",
   "version": "0.0.78",
   "description": "Tab view component for React Native",
   "main": "src/index.js",
@@ -24,16 +24,8 @@
     "scrollable",
     "coverflow"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/react-native-community/react-native-tab-view.git"
-  },
-  "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
+  "repository": "github:DelightfulStudio/react-native-tab-view",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/react-native-community/react-native-tab-view/issues"
-  },
-  "homepage": "https://github.com/react-native-community/react-native-tab-view#readme",
   "dependencies": {
     "prop-types": "^15.6.0"
   },
